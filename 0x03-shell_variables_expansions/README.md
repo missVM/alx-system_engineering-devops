@@ -6,4 +6,7 @@ project 2.  should be the last directory the shell looks into when looking for a
 
 project 3
 
-project 4. Create a script that lists environment variables.
+project 4. Create a script that lists environment variables
+
+project 5. a script that lists all local variables and environment variables, and functions.
+
