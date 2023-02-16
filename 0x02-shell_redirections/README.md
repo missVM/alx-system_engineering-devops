@@ -13,3 +13,5 @@ project 5. Display the first 10 lines of etc passwd
 project 6. a script that displays the third line of the file iacta
 
 project 7. a shell script that creates a file named exactly
+
+project 8. a script that writes into the file
