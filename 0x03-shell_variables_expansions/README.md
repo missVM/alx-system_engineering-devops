@@ -15,3 +15,6 @@ project 6. a script that creates a new local variable.
 project 7. a script that creates a new global variable.
 
 project 8. a script that prints the result of the addition of 128 with the value stored in the environment variable
+
+project 9. a script that prints the result of POWER divided by DIVIDE, followed by a new line
+
