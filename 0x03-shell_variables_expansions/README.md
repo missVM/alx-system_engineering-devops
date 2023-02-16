@@ -11,3 +11,5 @@ project 4. Create a script that lists environment variables
 project 5. a script that lists all local variables and environment variables, and functions.
 
 project 6. a script that creates a new local variable.
+
+project 7. a script that creates a new global variable.
