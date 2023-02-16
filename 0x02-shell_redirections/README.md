@@ -18,4 +18,7 @@ project 8. a script that writes into the file
 
 project 9. a script that duplicates the last line of the file
 
-project 10. a script that deletes all the regular files (not the directories) with a 
+project 10. a script that deletes all the regular files (not the directories) with 
+
+project 11.  a script that counts the number of directories and sub-directories in the current directory
+ 
