@@ -1,2 +1,2 @@
-#!/bin/bish
-cut -c 1 | paste -s -d ''
+#!/bin/bash
+echo $(cut -c | | tr -d "ln")
