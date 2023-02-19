@@ -14,4 +14,6 @@ project 18. Display all lines of the file /etc/ssh/sshd config starting with a l
 
 project 19. Replace all characters A and c from input to Z and e respectively.
 
-project 20.Create a script that removes all letters c and C from input.
+project 20.Create a script that removes all letters c and C from input
+
+project 21. Write a script that reverse its input.
