@@ -9,3 +9,5 @@ project 15. Display the number of lines that contain the pattern “bin” in th
 project 16. Display lines containing the pattern “root” and 3 lines after them in the file
 
 project 17.Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+project 18. Display all lines of the file /etc/ssh/sshd config starting with a letter.
