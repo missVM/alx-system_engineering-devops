@@ -1,1 +1,7 @@
 project 12. a script that displays the 10 newest files in the current directory.
+
+project 13. Create a script that takes a list of words as input and prints only words that appear exactly once.
+
+project 14. Display lines containing the pattern “root” from the file
+
+project 15. Display the number of lines that contain the pattern “bin” in the file 
