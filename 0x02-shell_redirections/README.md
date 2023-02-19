@@ -5,3 +5,5 @@ project 13. Create a script that takes a list of words as input and prints only 
 project 14. Display lines containing the pattern “root” from the file
 
 project 15. Display the number of lines that contain the pattern “bin” in the file 
+
+project 16. Display lines containing the pattern “root” and 3 lines after them in the file
