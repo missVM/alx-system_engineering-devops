@@ -23,3 +23,5 @@ project 22. a script that displays all users and their home directories, sorted 
 project 23. a command that finds all empty files and directories in the current directory and all sub-directories.
 
 project 24. a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+
+project 25. An acrostic is a poem (or other form of writing) in which the first letter
